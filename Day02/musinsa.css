@@ -1,0 +1,35 @@
+.naver {
+  color: white;
+  font-size: 18px;
+  background-color: #03c75a;
+  border-color: #03c75a;
+  width: 375px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid #03c75a;
+}
+.kakao {
+  color: black;
+  font-size: 18px;
+  background-color: yellow;
+  border-color: yellow;
+  width: 375px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid yellow;
+}
+.apple {
+  color: black;
+  font-size: 18px;
+  background-color: white;
+  width: 375px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid silver;
+}

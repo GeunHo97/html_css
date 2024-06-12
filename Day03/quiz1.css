@@ -1,0 +1,42 @@
+.box {
+  width: 600px;
+  height: 800px;
+  border: 1px solid silver;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.box > div {
+  font-size: 30px;
+  width: 500px;
+  height: 100px;
+  text-align: left;
+  padding-top: 40px;
+  padding-left: 30px;
+}
+.a1 {
+  color: white;
+  background-color: black;
+}
+.a2 {
+  color: white;
+
+  background-color: black;
+}
+.a3 {
+  color: white;
+
+  background-color: black;
+}
+.a4 {
+  color: white;
+
+  background-color: black;
+}
+.a5 {
+  color: white;
+
+  background-color: black;
+}

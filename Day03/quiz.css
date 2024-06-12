@@ -1,0 +1,32 @@
+.box {
+  width: 1000px;
+  height: 1000px;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  /* 주축으로 위치 선정해주기 */
+  justify-content: center;
+  /* 교차축으로 위치 선정해주기 */
+  align-items: center;
+  /* 자식들 사이에 gap 주기 */
+  gap: 10px;
+}
+.box > div {
+  width: 100px;
+  height: 100px;
+}
+.one {
+  background-color: #55efc4;
+}
+.two {
+  background-color: #81ecec;
+}
+.three {
+  background-color: #74b9ff;
+}
+.four {
+  background-color: #a29bfe;
+}
+.five {
+  background-color: #dfe6e9;
+}

@@ -1,0 +1,17 @@
+* {
+  color: red;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.button {
+  color: silver;
+  background-color: white;
+  border: 1px solid silver;
+  width: 200px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
